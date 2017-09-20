@@ -1,0 +1,191 @@
+h1{
+    text-transform:capitalize;
+    background-color: yellow;
+    border:black 3px dotted;
+    width: 300px;
+    padding: 20px;
+    margin: 20px 2px;
+    position:absolute;
+    top:80px;
+    left:3%;
+    display:inline-block; 
+}
+
+
+
+
+#div{
+    border: black 1px dotted;
+    width: 2500px;
+    height: 0px;
+    position:absolute;
+    top:90px;
+    left:0%;
+    display: inline-block;
+    
+}
+#div1{
+    background-color: black;
+    border: black 1px solid;
+    width: 2500px;
+    height: 1px;
+    position:absolute;
+    top:100px;
+    left:0%;
+    display: inline-block;
+    
+}
+
+
+
+
+#text {
+    
+    font-family:cursive; 
+    font-size: 10px;
+    text-align:center;
+    border: black 3px dotted;
+    width: 800px;
+    padding: 8px 30px;
+    margin: 20px;
+    position:absolute;
+    top:380px;
+    left:35%;
+    display: inline-block;
+
+}
+
+
+
+#div2{
+    border: black 2px dotted;
+    width: 200px;
+    height: 0px;
+    position:absolute;
+    top:370px;
+    left:34%;
+    display: inline-block;
+    
+}
+
+#div3{
+    border: black 2px solid;
+    width: 0px;
+    height: 460px;
+    position:absolute;
+    top:100px;
+    left:39%;
+    display: inline-block;
+    
+}
+
+
+#fill {
+    
+    font-family:cursive;
+    font-size: 30px;
+    text-align:center;
+    border: yellow 10px solid;
+    width: 800px;
+    padding:1px 150px;
+    margin: 20px;
+    position:absolute;
+    top:470px;
+    left:40%;
+    display: inline-block;
+
+}
+
+#div4{
+    border: black 2px solid;
+    width: 0px;
+    height: 700px;
+    position:absolute;
+    top:330px;
+    left:45%;
+    display: inline-block;
+    
+}
+
+#div5{
+    border: black 2px dotted;
+    width: 450px;
+    height: 0px;
+    position:absolute;
+    top:710px;
+    left:38%;
+    display: inline-block;
+    
+}
+
+#class {
+    background-color: yellow;
+    font-family:cursive;
+    font-size: 40px;
+    text-align:center;
+    border: black 3px solid;
+    width: 1300px;
+    padding:10px 100px;
+    margin: 20px;
+    position:absolute;
+    top:800px;
+    left:49%;
+    display: inline-block;
+
+}
+
+#div6{
+    border: black 2px dotted;
+    width: 100px;
+    height: 0px;
+    position:absolute;
+    top:730px;
+    left:40%;
+    display: inline-block;
+    
+}
+
+
+
+
+#strong{
+    text-transform:uppercase;
+    font-size: 60px;
+}
+
+#strong1{
+    text-transform:uppercase;
+    font-size: 70px;
+}
+
+#strong2{
+    text-transform:uppercase;
+    font-size: 80px;
+}
+
+span{
+    background-color: whitesmoke
+}
+
+
+
+#h2{
+    border:none;
+    position:absolute;
+    top:250px;
+    left:250%;
+    display: inline-block;
+  
+}
+
+.a{
+    border: black 3px dotted;
+    width: 120px;
+    padding: 5px 20px;
+    margin: 20px 2px;
+    position:absolute;
+    top:1500px;
+    left:170%;
+    display: inline-block;
+  
+}

@@ -1,0 +1,164 @@
+h1{ color: chocolate;
+    text-align: left;
+    font-size: 15px;
+    text-transform:capitalize;
+    background-color:beige;
+    border: beige 3px dotted;
+    width: 200px;
+    padding: 15px;
+    position:absolute;
+    top:100px;
+    left:5%;
+    display:inline-block; 
+}
+
+
+
+
+#div3{
+    background-color:cornflowerblue;
+    border:coral 3px dashed;
+    width: 800px;
+    padding: 245px 250px;
+    margin: 0px;
+    position:absolute;
+    top:5px;
+    left:5%;
+    display:inline-block; 
+    
+}
+
+#div1{
+    color:chocolate;
+    position:fixed;
+    top:375px;
+    left:53%;
+    display:inline-block; 
+}
+
+#div2{
+    color:beige;
+    position:fixed;
+    top:200px;
+    left:25%;
+    display:inline-block; 
+}
+
+#div4{
+    color:cornflowerblue;
+    position:absolute;
+    top:1000px;
+    left:25%;
+    display:inline-block; 
+}
+
+
+
+
+#text {
+    font-weight:lighter;
+    font-family:fantasy;
+    font-size: 20px;
+    text-align:left;
+    color:beige;
+    border:none;
+    width: 60px;
+    padding: 130px 15px;
+    margin: 30px;
+    position:fixed;
+    top:150px;
+    left:40%;
+    display: inline-block;
+
+}
+
+
+
+
+
+#fill {
+    font-weight:lighter;
+    font-family:fantasy;
+    font-size: 20px;
+    text-align:left;
+    color:beige;
+    border:none;
+    width: 60px;
+    padding: 130px 15px;
+    margin: 30px;
+    position:fixed;
+    top:150px;
+    left:55%;
+    display: inline-block;
+
+}
+
+
+
+#class {
+    font-weight:lighter;
+    font-family:fantasy;
+    font-size: 20px;
+    text-align:left;
+    color:beige;
+    border: none;
+    width: 40px;
+    padding: 130px 15px;
+    margin: 30px;
+    position:fixed;
+    top:150px;
+    left:70%;
+    display: inline-block;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#strong{
+    font-family:fantasy;
+    color:chocolate;
+    text-transform:uppercase;
+    font-size: 10px;
+}
+
+
+
+span{
+    background-color: whitesmoke
+}
+
+
+
+#h2{
+    border:none;
+    position:absolute;
+    top:250px;
+    left:250%;
+    display: inline-block;
+  
+}
+
+.a{
+    text-align: center;
+    font-size: 10px;
+    font-family: fantasy;
+    color:beige;
+    background-color: black;
+    border: black 3px dotted;
+    width: 120px;
+    padding: 5px 15px;
+    margin: 20px 2px;
+    position:fixed;
+    top:200px;
+    left:5%;
+    display: inline-block;
+  
+}

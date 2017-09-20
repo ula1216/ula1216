@@ -1,0 +1,195 @@
+
+
+
+
+
+#text {
+   
+    border: black 3px dashed;
+    width: 500px;
+    padding: 20px;
+    margin: 20px 2px;
+    position:absolute;
+    top:240px;
+    right:50%;
+    display: inline-block;
+
+}
+
+#div5{
+    border: black 2px solid;
+    width: 541px;
+    position:absolute;
+    top:325px;
+    right:50.2%;
+    display: inline-block;
+    
+}
+
+
+#div{
+    border: black 1px solid;
+    width: 350px;
+    position:absolute;
+    top:280px;
+    right:24%;
+    display: inline-block;
+    
+}
+
+#div6{
+    border: black 1px solid;
+    width: 350px;
+    position:absolute;
+    top:270px;
+    right:24%;
+    display: inline-block;
+    
+}
+
+#div1{
+    border: black 3px dashed;
+    width: 670px;
+    padding: 20px;
+    margin: 20px 2px;
+    position:absolute;
+    top:310px;
+    left:100%;
+    display: inline-block;
+    
+}
+
+#fill {
+    
+    border: black 3px solid;
+    width: 650px;
+    padding: 30px;
+    margin: 20px 2px;
+    position:absolute;
+    top:290px;
+    left:100%;
+    display: inline-block;
+
+}
+
+#div2{
+    border: black 1px dashed;
+    width: 200px;
+    position:absolute;
+    top:340px;
+    left:156%;
+    display: inline-block;
+    
+}
+
+#div3{
+    border: black 1px dashed;
+    width: 200px;
+    position:absolute;
+    top:350px;
+    left:156%;
+    display: inline-block;
+    
+}
+
+
+#div7{
+    position:absolute;
+    top:320px;
+    left:173%;
+    display: inline-block;
+    
+}
+
+
+#div8{
+    position:absolute;
+    top:300px;
+    left:177%;
+    display: inline-block;
+    
+}
+
+#div9{
+    border: black 1px dashed;
+    width: 85px;
+    position:absolute;
+    top:300px;
+    left:179%;
+    display: inline-block;
+    
+}
+
+#div10{
+    border: black 1px dashed;
+    width: 85px;
+    position:absolute;
+    top:310px;
+    left:179%;
+    display: inline-block;
+    
+}
+
+#class {
+    
+    border: black 3px dashed;
+    width: 850px;
+    padding: 20px 40px;
+    margin: 20px 20px;
+    position:absolute;
+    top:250px;
+    left:185%;
+    display: inline-block;
+
+}
+
+#strong{
+    color:black
+        
+}
+
+
+
+span{
+    background-color: black
+}
+
+
+#div4{
+    border: black 2px solid;
+    width: 2766px;
+    position:absolute;
+    top:582px;
+    left:23%;
+    display: inline-block;
+}
+
+#div11{
+    position:absolute;
+    top:556px;
+    left:248%;
+    display: inline-block;
+}
+
+
+
+#h2{
+    border:none;
+    position:absolute;
+    top:250px;
+    left:300%;
+    display: inline-block;
+  
+}
+
+#a{
+    border: black 3px outset;
+    width: 150px;
+    padding: 5px 15px;
+    margin: 15px 2px;
+    position:absolute;
+    top:310px;
+    left:300%;
+    display: inline-block;
+  
+}

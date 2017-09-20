@@ -1,0 +1,120 @@
+#text {
+   
+    border: red 3px dotted;
+    width: 500px;
+    padding: 20px;
+    margin: 20px 2px;
+    position:absolute;
+    top:240px;
+    right:50%;
+    display: inline-block;
+
+}
+
+#div{
+    border: darkgreen 3px solid;
+    width: 300px;
+    padding: 15px;
+    margin: 15px 2px;
+    position:absolute;
+    top:230px;
+    right:25%;
+    display: inline-block;
+    
+}
+
+#div1{
+    border: darkgreen 3px dotted;
+    width: 50px;
+    padding: 20px;
+    margin: 20px 2px;
+    position:absolute;
+    top:250px;
+    right:20%;
+    display: inline-block;
+    
+}
+
+#fill {
+    
+    border: red 3px solid;
+    width: 650px;
+    padding: 30px;
+    margin: 20px 2px;
+    position:absolute;
+    top:275px;
+    left:75%;
+    display: inline-block;
+
+}
+
+#div2{
+    border: darkgreen 3px solid;
+    width: 20px 20px;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    position:absolute;
+    top:250px;
+    left:125%;
+    display: inline-block;
+    
+}
+
+#div3{
+    border: darkgreen 3px double;
+    width: 200px;
+    padding: 15px;
+    margin: 15px 2px;
+    position:absolute;
+    top:230px;
+    left:125%;
+    display: inline-block;
+    
+}
+
+#class {
+    
+    border: red 3px dotted;
+    width: 850px;
+    padding: 20px;
+    margin: 20px 2px;
+    position:absolute;
+    top:250px;
+    left:135%;
+    display: inline-block;
+
+}
+
+#strong{
+    color:red
+        
+}
+
+
+
+span{
+    background-color: whitesmoke
+}
+
+
+
+#h2{
+    border:none;
+    position:absolute;
+    top:250px;
+    left:250%;
+    display: inline-block;
+  
+}
+
+#a{
+    border: darkgreen 3px outset;
+    width: 150px;
+    padding: 5px 15px;
+    margin: 15px 2px;
+    position:absolute;
+    top:310px;
+    left:250%;
+    display: inline-block;
+  
+}

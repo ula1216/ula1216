@@ -1,0 +1,89 @@
+
+body {
+    background-color: pink;
+}
+
+
+
+div1{
+    font-size: 40px;
+    font-weight: bold;
+    color:dodgerblue ;
+    position:absolute;
+    top:185px;
+    left:48.5%;
+    display:inline-block;
+    
+}
+
+
+#text {
+    
+    font-size: 20px;
+    font-family: monospace;
+    font-weight:lighter;
+    color: white;
+    position: inherit;
+    
+    
+}
+
+#text1{
+    
+    font-size: 20px;
+    font-family: monospace;
+    font-weight:lighter;
+    color: white;
+    border: none;
+    width: 1500px;
+    padding: 60px;
+    margin: 30px 2px;
+    position:absolute;
+    left:70%;
+    
+}
+
+#fill{
+    font-size: 25px;
+    color: dodgerblue;
+    border: white 1px solid;
+    width: 90px;
+    padding: 15px;
+    margin: 20px 2px;
+}
+
+
+.center{
+    font-size: 40px;
+    text-align:left;
+    color: white
+}
+
+
+span{
+    background-color: whitesmoke
+}
+
+div {
+    font-size: 10px;
+    background-color: orange;
+    border: white 2px dashed;
+    width: 280px;
+    padding: 15px;
+    margin: 20px 2px;
+}
+
+
+h4 {
+    letter-spacing: 3px;
+    font-family:serif;
+    color: white;
+}
+
+
+a{
+    letter-spacing: 3px;
+    font-family:serif;
+    color:dodgerblue;
+    
+}

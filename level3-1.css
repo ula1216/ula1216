@@ -1,0 +1,187 @@
+h1{
+    
+   position:inline-block;    
+  display:inline-table  
+}
+
+#div{
+    background-color:orange;
+    border:orange 2px dotted;
+    width: 1px;
+    height:1150px;
+    position:absolute;
+    top:193px;
+    left:4%;
+    display: inline-block;
+    
+}
+
+
+
+#text {
+    border: red 3px solid;
+    width: 80px;
+    padding: 20px;
+    margin: 20px 2px;
+    position:absolute;
+    top:240px;
+    right:50%;
+   
+
+}
+
+
+
+#div1{
+    
+    border: orange 3px dotted;
+    width: 25px;
+    padding: 15px;
+    margin: 20px 20px;
+    position:absolute;
+    top:220px;
+    right:57%;
+    display: inline-block;
+    
+}
+
+
+#div4{
+    background-color: blue;
+    border:blue 1px solid;
+    width: 1px;
+    height:705px;
+    position:absolute;
+    top:260px;
+    left:38%;
+    display: inline-block;
+    
+}
+
+#div8{
+    background-color: blue;
+    border: blue 2px solid;
+    width: 395px;
+    position:absolute;
+    top:965px;
+    left:38%;
+    display: inline-block;
+    
+}
+
+
+
+
+#fill {
+    border: blue 3px solid;
+    width: 90px;
+    padding: 20px;
+    margin: 20px 20px;
+    position:absolute;
+    top:1000px;
+    right:30%;
+    
+
+}
+
+
+#div3{
+    border: orange 3px dotted;
+    width: 100px;
+    padding: 15px;
+    margin: 15px;
+    position:absolute;
+    top:1450px;
+    left:65%;
+    display: inline-block;
+    
+}
+
+
+#div10{
+    border: orange 3px dotted;
+    width: 60px;
+    padding: 15px;
+    margin: 15px;
+    position:absolute;
+    top:1550px;
+    left:66%;
+    display: inline-block;
+    
+}
+
+#div5{
+    background-color: red;
+    border:red 1px solid;
+    width: 1px;
+    height:720px;
+    position:absolute;
+    top:965px;
+    right:30%;
+    display: inline-block;
+    
+}
+
+
+#class {
+    border: red 3px solid;
+    width: 100px;
+    padding: 20px;
+    margin: 20px 2px;
+    position:absolute;
+    top:1730px;
+    right:60%;
+    display: inline-block;
+
+}
+
+#div6 {
+    background-color: blue;
+    border:blue 1px solid;
+    width: 1px;
+    height:1210px;
+    position:absolute;
+    top:1685px;
+    left:26%;
+    display: inline-block;
+   
+}
+
+
+#div7{
+    border: orange 3px dotted;
+    width: 100px;
+    padding: 15px;
+    margin: 15px;
+    position:absolute;
+    top:1750px;
+    left:22%;
+    display: inline-block;
+    
+}
+
+#div9{
+    background-color: red;
+    border: red 2px solid;
+    width: 545px;
+    position:absolute;
+    top:1685px;
+    left:26%;
+    display: inline-block;
+    
+}
+
+
+
+span{
+    background-color: whitesmoke
+}
+
+
+
+ background-color: orange;
+    border: white 1px solid;
+    width: 90px;
+    padding: 15px;
+    margin: 20px 2px
+
